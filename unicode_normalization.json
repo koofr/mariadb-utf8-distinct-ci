@@ -1,0 +1,6022 @@
+[
+    {
+        "char": "\u00a0",
+        "normalized": " "
+    },
+    {
+        "char": "\u00aa",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00b2",
+        "normalized": "2"
+    },
+    {
+        "char": "\u00b3",
+        "normalized": "3"
+    },
+    {
+        "char": "\u00b9",
+        "normalized": "1"
+    },
+    {
+        "char": "\u00ba",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00c0",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00c1",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00c2",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00c3",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00c4",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00c5",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00c7",
+        "normalized": "C"
+    },
+    {
+        "char": "\u00c8",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00c9",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00ca",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00cb",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00cc",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00cd",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00ce",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00cf",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00d1",
+        "normalized": "N"
+    },
+    {
+        "char": "\u00d2",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00d3",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00d4",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00d5",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00d6",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00d9",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00da",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00db",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00dc",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00dd",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u00e0",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00e1",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00e2",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00e3",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00e4",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00e5",
+        "normalized": "A"
+    },
+    {
+        "char": "\u00e7",
+        "normalized": "C"
+    },
+    {
+        "char": "\u00e8",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00e9",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00ea",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00eb",
+        "normalized": "E"
+    },
+    {
+        "char": "\u00ec",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00ed",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00ee",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00ef",
+        "normalized": "I"
+    },
+    {
+        "char": "\u00f1",
+        "normalized": "N"
+    },
+    {
+        "char": "\u00f2",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00f3",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00f4",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00f5",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00f6",
+        "normalized": "O"
+    },
+    {
+        "char": "\u00f9",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00fa",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00fb",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00fc",
+        "normalized": "U"
+    },
+    {
+        "char": "\u00fd",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u00ff",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u0100",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0101",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0102",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0103",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0104",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0105",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0106",
+        "normalized": "C"
+    },
+    {
+        "char": "\u0107",
+        "normalized": "C"
+    },
+    {
+        "char": "\u0108",
+        "normalized": "C"
+    },
+    {
+        "char": "\u0109",
+        "normalized": "C"
+    },
+    {
+        "char": "\u010a",
+        "normalized": "C"
+    },
+    {
+        "char": "\u010b",
+        "normalized": "C"
+    },
+    {
+        "char": "\u010c",
+        "normalized": "C"
+    },
+    {
+        "char": "\u010d",
+        "normalized": "C"
+    },
+    {
+        "char": "\u010e",
+        "normalized": "D"
+    },
+    {
+        "char": "\u010f",
+        "normalized": "D"
+    },
+    {
+        "char": "\u0112",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0113",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0114",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0115",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0116",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0117",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0118",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0119",
+        "normalized": "E"
+    },
+    {
+        "char": "\u011a",
+        "normalized": "E"
+    },
+    {
+        "char": "\u011b",
+        "normalized": "E"
+    },
+    {
+        "char": "\u011c",
+        "normalized": "G"
+    },
+    {
+        "char": "\u011d",
+        "normalized": "G"
+    },
+    {
+        "char": "\u011e",
+        "normalized": "G"
+    },
+    {
+        "char": "\u011f",
+        "normalized": "G"
+    },
+    {
+        "char": "\u0120",
+        "normalized": "G"
+    },
+    {
+        "char": "\u0121",
+        "normalized": "G"
+    },
+    {
+        "char": "\u0122",
+        "normalized": "G"
+    },
+    {
+        "char": "\u0123",
+        "normalized": "G"
+    },
+    {
+        "char": "\u0124",
+        "normalized": "H"
+    },
+    {
+        "char": "\u0125",
+        "normalized": "H"
+    },
+    {
+        "char": "\u0128",
+        "normalized": "I"
+    },
+    {
+        "char": "\u0129",
+        "normalized": "I"
+    },
+    {
+        "char": "\u012a",
+        "normalized": "I"
+    },
+    {
+        "char": "\u012b",
+        "normalized": "I"
+    },
+    {
+        "char": "\u012c",
+        "normalized": "I"
+    },
+    {
+        "char": "\u012d",
+        "normalized": "I"
+    },
+    {
+        "char": "\u012e",
+        "normalized": "I"
+    },
+    {
+        "char": "\u012f",
+        "normalized": "I"
+    },
+    {
+        "char": "\u0130",
+        "normalized": "I"
+    },
+    {
+        "char": "\u0134",
+        "normalized": "J"
+    },
+    {
+        "char": "\u0135",
+        "normalized": "J"
+    },
+    {
+        "char": "\u0136",
+        "normalized": "K"
+    },
+    {
+        "char": "\u0137",
+        "normalized": "K"
+    },
+    {
+        "char": "\u0139",
+        "normalized": "L"
+    },
+    {
+        "char": "\u013a",
+        "normalized": "L"
+    },
+    {
+        "char": "\u013b",
+        "normalized": "L"
+    },
+    {
+        "char": "\u013c",
+        "normalized": "L"
+    },
+    {
+        "char": "\u013d",
+        "normalized": "L"
+    },
+    {
+        "char": "\u013e",
+        "normalized": "L"
+    },
+    {
+        "char": "\u0143",
+        "normalized": "N"
+    },
+    {
+        "char": "\u0144",
+        "normalized": "N"
+    },
+    {
+        "char": "\u0145",
+        "normalized": "N"
+    },
+    {
+        "char": "\u0146",
+        "normalized": "N"
+    },
+    {
+        "char": "\u0147",
+        "normalized": "N"
+    },
+    {
+        "char": "\u0148",
+        "normalized": "N"
+    },
+    {
+        "char": "\u014c",
+        "normalized": "O"
+    },
+    {
+        "char": "\u014d",
+        "normalized": "O"
+    },
+    {
+        "char": "\u014e",
+        "normalized": "O"
+    },
+    {
+        "char": "\u014f",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0150",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0151",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0154",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0155",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0156",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0157",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0158",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0159",
+        "normalized": "R"
+    },
+    {
+        "char": "\u015a",
+        "normalized": "S"
+    },
+    {
+        "char": "\u015b",
+        "normalized": "S"
+    },
+    {
+        "char": "\u015c",
+        "normalized": "S"
+    },
+    {
+        "char": "\u015d",
+        "normalized": "S"
+    },
+    {
+        "char": "\u015e",
+        "normalized": "S"
+    },
+    {
+        "char": "\u015f",
+        "normalized": "S"
+    },
+    {
+        "char": "\u0160",
+        "normalized": "S"
+    },
+    {
+        "char": "\u0161",
+        "normalized": "S"
+    },
+    {
+        "char": "\u0162",
+        "normalized": "T"
+    },
+    {
+        "char": "\u0163",
+        "normalized": "T"
+    },
+    {
+        "char": "\u0164",
+        "normalized": "T"
+    },
+    {
+        "char": "\u0165",
+        "normalized": "T"
+    },
+    {
+        "char": "\u0168",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0169",
+        "normalized": "U"
+    },
+    {
+        "char": "\u016a",
+        "normalized": "U"
+    },
+    {
+        "char": "\u016b",
+        "normalized": "U"
+    },
+    {
+        "char": "\u016c",
+        "normalized": "U"
+    },
+    {
+        "char": "\u016d",
+        "normalized": "U"
+    },
+    {
+        "char": "\u016e",
+        "normalized": "U"
+    },
+    {
+        "char": "\u016f",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0170",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0171",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0172",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0173",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0174",
+        "normalized": "W"
+    },
+    {
+        "char": "\u0175",
+        "normalized": "W"
+    },
+    {
+        "char": "\u0176",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u0177",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u0178",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u0179",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u017a",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u017b",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u017c",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u017d",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u017e",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u017f",
+        "normalized": "S"
+    },
+    {
+        "char": "\u01a0",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01a1",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01af",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01b0",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01cd",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01ce",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01cf",
+        "normalized": "I"
+    },
+    {
+        "char": "\u01d0",
+        "normalized": "I"
+    },
+    {
+        "char": "\u01d1",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01d2",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01d3",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01d4",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01d5",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01d6",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01d7",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01d8",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01d9",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01da",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01db",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01dc",
+        "normalized": "U"
+    },
+    {
+        "char": "\u01de",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01df",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01e0",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01e1",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01e6",
+        "normalized": "G"
+    },
+    {
+        "char": "\u01e7",
+        "normalized": "G"
+    },
+    {
+        "char": "\u01e8",
+        "normalized": "K"
+    },
+    {
+        "char": "\u01e9",
+        "normalized": "K"
+    },
+    {
+        "char": "\u01ea",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01eb",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01ec",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01ed",
+        "normalized": "O"
+    },
+    {
+        "char": "\u01f0",
+        "normalized": "J"
+    },
+    {
+        "char": "\u01f4",
+        "normalized": "G"
+    },
+    {
+        "char": "\u01f5",
+        "normalized": "G"
+    },
+    {
+        "char": "\u01f8",
+        "normalized": "N"
+    },
+    {
+        "char": "\u01f9",
+        "normalized": "N"
+    },
+    {
+        "char": "\u01fa",
+        "normalized": "A"
+    },
+    {
+        "char": "\u01fb",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0200",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0201",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0202",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0203",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0204",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0205",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0206",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0207",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0208",
+        "normalized": "I"
+    },
+    {
+        "char": "\u0209",
+        "normalized": "I"
+    },
+    {
+        "char": "\u020a",
+        "normalized": "I"
+    },
+    {
+        "char": "\u020b",
+        "normalized": "I"
+    },
+    {
+        "char": "\u020c",
+        "normalized": "O"
+    },
+    {
+        "char": "\u020d",
+        "normalized": "O"
+    },
+    {
+        "char": "\u020e",
+        "normalized": "O"
+    },
+    {
+        "char": "\u020f",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0210",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0211",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0212",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0213",
+        "normalized": "R"
+    },
+    {
+        "char": "\u0214",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0215",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0216",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0217",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0218",
+        "normalized": "S"
+    },
+    {
+        "char": "\u0219",
+        "normalized": "S"
+    },
+    {
+        "char": "\u021a",
+        "normalized": "T"
+    },
+    {
+        "char": "\u021b",
+        "normalized": "T"
+    },
+    {
+        "char": "\u021e",
+        "normalized": "H"
+    },
+    {
+        "char": "\u021f",
+        "normalized": "H"
+    },
+    {
+        "char": "\u0226",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0227",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0228",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0229",
+        "normalized": "E"
+    },
+    {
+        "char": "\u022a",
+        "normalized": "O"
+    },
+    {
+        "char": "\u022b",
+        "normalized": "O"
+    },
+    {
+        "char": "\u022c",
+        "normalized": "O"
+    },
+    {
+        "char": "\u022d",
+        "normalized": "O"
+    },
+    {
+        "char": "\u022e",
+        "normalized": "O"
+    },
+    {
+        "char": "\u022f",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0230",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0231",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0232",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u0233",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u02b0",
+        "normalized": "H"
+    },
+    {
+        "char": "\u02b2",
+        "normalized": "J"
+    },
+    {
+        "char": "\u02b3",
+        "normalized": "R"
+    },
+    {
+        "char": "\u02b7",
+        "normalized": "W"
+    },
+    {
+        "char": "\u02b8",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u02e1",
+        "normalized": "L"
+    },
+    {
+        "char": "\u02e2",
+        "normalized": "S"
+    },
+    {
+        "char": "\u02e3",
+        "normalized": "X"
+    },
+    {
+        "char": "\u0300",
+        "normalized": " "
+    },
+    {
+        "char": "\u0301",
+        "normalized": " "
+    },
+    {
+        "char": "\u0302",
+        "normalized": " "
+    },
+    {
+        "char": "\u0303",
+        "normalized": " "
+    },
+    {
+        "char": "\u0304",
+        "normalized": " "
+    },
+    {
+        "char": "\u0305",
+        "normalized": " "
+    },
+    {
+        "char": "\u0306",
+        "normalized": " "
+    },
+    {
+        "char": "\u0307",
+        "normalized": " "
+    },
+    {
+        "char": "\u0308",
+        "normalized": " "
+    },
+    {
+        "char": "\u0309",
+        "normalized": " "
+    },
+    {
+        "char": "\u030a",
+        "normalized": " "
+    },
+    {
+        "char": "\u030b",
+        "normalized": " "
+    },
+    {
+        "char": "\u030c",
+        "normalized": " "
+    },
+    {
+        "char": "\u030d",
+        "normalized": " "
+    },
+    {
+        "char": "\u030e",
+        "normalized": " "
+    },
+    {
+        "char": "\u030f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0310",
+        "normalized": " "
+    },
+    {
+        "char": "\u0311",
+        "normalized": " "
+    },
+    {
+        "char": "\u0312",
+        "normalized": " "
+    },
+    {
+        "char": "\u0313",
+        "normalized": " "
+    },
+    {
+        "char": "\u0314",
+        "normalized": " "
+    },
+    {
+        "char": "\u0315",
+        "normalized": " "
+    },
+    {
+        "char": "\u0316",
+        "normalized": " "
+    },
+    {
+        "char": "\u0317",
+        "normalized": " "
+    },
+    {
+        "char": "\u0318",
+        "normalized": " "
+    },
+    {
+        "char": "\u0319",
+        "normalized": " "
+    },
+    {
+        "char": "\u031a",
+        "normalized": " "
+    },
+    {
+        "char": "\u031b",
+        "normalized": " "
+    },
+    {
+        "char": "\u031c",
+        "normalized": " "
+    },
+    {
+        "char": "\u031d",
+        "normalized": " "
+    },
+    {
+        "char": "\u031e",
+        "normalized": " "
+    },
+    {
+        "char": "\u031f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0320",
+        "normalized": " "
+    },
+    {
+        "char": "\u0321",
+        "normalized": " "
+    },
+    {
+        "char": "\u0322",
+        "normalized": " "
+    },
+    {
+        "char": "\u0323",
+        "normalized": " "
+    },
+    {
+        "char": "\u0324",
+        "normalized": " "
+    },
+    {
+        "char": "\u0325",
+        "normalized": " "
+    },
+    {
+        "char": "\u0326",
+        "normalized": " "
+    },
+    {
+        "char": "\u0327",
+        "normalized": " "
+    },
+    {
+        "char": "\u0328",
+        "normalized": " "
+    },
+    {
+        "char": "\u0329",
+        "normalized": " "
+    },
+    {
+        "char": "\u032a",
+        "normalized": " "
+    },
+    {
+        "char": "\u032b",
+        "normalized": " "
+    },
+    {
+        "char": "\u032c",
+        "normalized": " "
+    },
+    {
+        "char": "\u032d",
+        "normalized": " "
+    },
+    {
+        "char": "\u032e",
+        "normalized": " "
+    },
+    {
+        "char": "\u032f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0330",
+        "normalized": " "
+    },
+    {
+        "char": "\u0331",
+        "normalized": " "
+    },
+    {
+        "char": "\u0332",
+        "normalized": " "
+    },
+    {
+        "char": "\u0333",
+        "normalized": " "
+    },
+    {
+        "char": "\u0334",
+        "normalized": " "
+    },
+    {
+        "char": "\u0335",
+        "normalized": " "
+    },
+    {
+        "char": "\u0336",
+        "normalized": " "
+    },
+    {
+        "char": "\u0337",
+        "normalized": " "
+    },
+    {
+        "char": "\u0338",
+        "normalized": " "
+    },
+    {
+        "char": "\u0339",
+        "normalized": " "
+    },
+    {
+        "char": "\u033a",
+        "normalized": " "
+    },
+    {
+        "char": "\u033b",
+        "normalized": " "
+    },
+    {
+        "char": "\u033c",
+        "normalized": " "
+    },
+    {
+        "char": "\u033d",
+        "normalized": " "
+    },
+    {
+        "char": "\u033e",
+        "normalized": " "
+    },
+    {
+        "char": "\u033f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0340",
+        "normalized": " "
+    },
+    {
+        "char": "\u0341",
+        "normalized": " "
+    },
+    {
+        "char": "\u0342",
+        "normalized": " "
+    },
+    {
+        "char": "\u0343",
+        "normalized": " "
+    },
+    {
+        "char": "\u0344",
+        "normalized": " "
+    },
+    {
+        "char": "\u0345",
+        "normalized": " "
+    },
+    {
+        "char": "\u0346",
+        "normalized": " "
+    },
+    {
+        "char": "\u0347",
+        "normalized": " "
+    },
+    {
+        "char": "\u0348",
+        "normalized": " "
+    },
+    {
+        "char": "\u0349",
+        "normalized": " "
+    },
+    {
+        "char": "\u034a",
+        "normalized": " "
+    },
+    {
+        "char": "\u034b",
+        "normalized": " "
+    },
+    {
+        "char": "\u034c",
+        "normalized": " "
+    },
+    {
+        "char": "\u034d",
+        "normalized": " "
+    },
+    {
+        "char": "\u034e",
+        "normalized": " "
+    },
+    {
+        "char": "\u034f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0350",
+        "normalized": " "
+    },
+    {
+        "char": "\u0351",
+        "normalized": " "
+    },
+    {
+        "char": "\u0352",
+        "normalized": " "
+    },
+    {
+        "char": "\u0353",
+        "normalized": " "
+    },
+    {
+        "char": "\u0354",
+        "normalized": " "
+    },
+    {
+        "char": "\u0355",
+        "normalized": " "
+    },
+    {
+        "char": "\u0356",
+        "normalized": " "
+    },
+    {
+        "char": "\u0357",
+        "normalized": " "
+    },
+    {
+        "char": "\u035d",
+        "normalized": " "
+    },
+    {
+        "char": "\u035e",
+        "normalized": " "
+    },
+    {
+        "char": "\u035f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0360",
+        "normalized": " "
+    },
+    {
+        "char": "\u0361",
+        "normalized": " "
+    },
+    {
+        "char": "\u0362",
+        "normalized": " "
+    },
+    {
+        "char": "\u0363",
+        "normalized": "A"
+    },
+    {
+        "char": "\u0364",
+        "normalized": "E"
+    },
+    {
+        "char": "\u0365",
+        "normalized": "I"
+    },
+    {
+        "char": "\u0366",
+        "normalized": "O"
+    },
+    {
+        "char": "\u0367",
+        "normalized": "U"
+    },
+    {
+        "char": "\u0368",
+        "normalized": "C"
+    },
+    {
+        "char": "\u0369",
+        "normalized": "D"
+    },
+    {
+        "char": "\u036a",
+        "normalized": "H"
+    },
+    {
+        "char": "\u036b",
+        "normalized": "M"
+    },
+    {
+        "char": "\u036c",
+        "normalized": "R"
+    },
+    {
+        "char": "\u036d",
+        "normalized": "T"
+    },
+    {
+        "char": "\u036e",
+        "normalized": "V"
+    },
+    {
+        "char": "\u036f",
+        "normalized": "X"
+    },
+    {
+        "char": "\u037e",
+        "normalized": ";"
+    },
+    {
+        "char": "\u0483",
+        "normalized": " "
+    },
+    {
+        "char": "\u0484",
+        "normalized": " "
+    },
+    {
+        "char": "\u0485",
+        "normalized": " "
+    },
+    {
+        "char": "\u0486",
+        "normalized": " "
+    },
+    {
+        "char": "\u0488",
+        "normalized": " "
+    },
+    {
+        "char": "\u0489",
+        "normalized": " "
+    },
+    {
+        "char": "\u0591",
+        "normalized": " "
+    },
+    {
+        "char": "\u0592",
+        "normalized": " "
+    },
+    {
+        "char": "\u0593",
+        "normalized": " "
+    },
+    {
+        "char": "\u0594",
+        "normalized": " "
+    },
+    {
+        "char": "\u0595",
+        "normalized": " "
+    },
+    {
+        "char": "\u0596",
+        "normalized": " "
+    },
+    {
+        "char": "\u0597",
+        "normalized": " "
+    },
+    {
+        "char": "\u0598",
+        "normalized": " "
+    },
+    {
+        "char": "\u0599",
+        "normalized": " "
+    },
+    {
+        "char": "\u059a",
+        "normalized": " "
+    },
+    {
+        "char": "\u059b",
+        "normalized": " "
+    },
+    {
+        "char": "\u059c",
+        "normalized": " "
+    },
+    {
+        "char": "\u059d",
+        "normalized": " "
+    },
+    {
+        "char": "\u059e",
+        "normalized": " "
+    },
+    {
+        "char": "\u059f",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a0",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a1",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a3",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a4",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a5",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a6",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a7",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a8",
+        "normalized": " "
+    },
+    {
+        "char": "\u05a9",
+        "normalized": " "
+    },
+    {
+        "char": "\u05aa",
+        "normalized": " "
+    },
+    {
+        "char": "\u05ab",
+        "normalized": " "
+    },
+    {
+        "char": "\u05ac",
+        "normalized": " "
+    },
+    {
+        "char": "\u05ad",
+        "normalized": " "
+    },
+    {
+        "char": "\u05ae",
+        "normalized": " "
+    },
+    {
+        "char": "\u05af",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b0",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b1",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b2",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b3",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b4",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b5",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b6",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b7",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b8",
+        "normalized": " "
+    },
+    {
+        "char": "\u05b9",
+        "normalized": " "
+    },
+    {
+        "char": "\u05bb",
+        "normalized": " "
+    },
+    {
+        "char": "\u05bc",
+        "normalized": " "
+    },
+    {
+        "char": "\u05bd",
+        "normalized": " "
+    },
+    {
+        "char": "\u05bf",
+        "normalized": " "
+    },
+    {
+        "char": "\u05c1",
+        "normalized": " "
+    },
+    {
+        "char": "\u05c2",
+        "normalized": " "
+    },
+    {
+        "char": "\u05c4",
+        "normalized": " "
+    },
+    {
+        "char": "\u0600",
+        "normalized": " "
+    },
+    {
+        "char": "\u0601",
+        "normalized": " "
+    },
+    {
+        "char": "\u0602",
+        "normalized": " "
+    },
+    {
+        "char": "\u0603",
+        "normalized": " "
+    },
+    {
+        "char": "\u0610",
+        "normalized": " "
+    },
+    {
+        "char": "\u0611",
+        "normalized": " "
+    },
+    {
+        "char": "\u0612",
+        "normalized": " "
+    },
+    {
+        "char": "\u0613",
+        "normalized": " "
+    },
+    {
+        "char": "\u0614",
+        "normalized": " "
+    },
+    {
+        "char": "\u0615",
+        "normalized": " "
+    },
+    {
+        "char": "\u064b",
+        "normalized": " "
+    },
+    {
+        "char": "\u064c",
+        "normalized": " "
+    },
+    {
+        "char": "\u064d",
+        "normalized": " "
+    },
+    {
+        "char": "\u064e",
+        "normalized": " "
+    },
+    {
+        "char": "\u064f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0650",
+        "normalized": " "
+    },
+    {
+        "char": "\u0651",
+        "normalized": " "
+    },
+    {
+        "char": "\u0652",
+        "normalized": " "
+    },
+    {
+        "char": "\u0653",
+        "normalized": " "
+    },
+    {
+        "char": "\u0654",
+        "normalized": " "
+    },
+    {
+        "char": "\u0655",
+        "normalized": " "
+    },
+    {
+        "char": "\u0656",
+        "normalized": " "
+    },
+    {
+        "char": "\u0657",
+        "normalized": " "
+    },
+    {
+        "char": "\u0658",
+        "normalized": " "
+    },
+    {
+        "char": "\u0660",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0661",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0662",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0663",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0664",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0665",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0666",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0667",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0668",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0669",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0670",
+        "normalized": " "
+    },
+    {
+        "char": "\u06d6",
+        "normalized": " "
+    },
+    {
+        "char": "\u06d7",
+        "normalized": " "
+    },
+    {
+        "char": "\u06d8",
+        "normalized": " "
+    },
+    {
+        "char": "\u06d9",
+        "normalized": " "
+    },
+    {
+        "char": "\u06da",
+        "normalized": " "
+    },
+    {
+        "char": "\u06db",
+        "normalized": " "
+    },
+    {
+        "char": "\u06dc",
+        "normalized": " "
+    },
+    {
+        "char": "\u06dd",
+        "normalized": " "
+    },
+    {
+        "char": "\u06de",
+        "normalized": " "
+    },
+    {
+        "char": "\u06df",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e0",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e1",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e2",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e3",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e4",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e7",
+        "normalized": " "
+    },
+    {
+        "char": "\u06e8",
+        "normalized": " "
+    },
+    {
+        "char": "\u06ea",
+        "normalized": " "
+    },
+    {
+        "char": "\u06eb",
+        "normalized": " "
+    },
+    {
+        "char": "\u06ec",
+        "normalized": " "
+    },
+    {
+        "char": "\u06ed",
+        "normalized": " "
+    },
+    {
+        "char": "\u06f0",
+        "normalized": "0"
+    },
+    {
+        "char": "\u06f1",
+        "normalized": "1"
+    },
+    {
+        "char": "\u06f2",
+        "normalized": "2"
+    },
+    {
+        "char": "\u06f3",
+        "normalized": "3"
+    },
+    {
+        "char": "\u06f4",
+        "normalized": "4"
+    },
+    {
+        "char": "\u06f5",
+        "normalized": "5"
+    },
+    {
+        "char": "\u06f6",
+        "normalized": "6"
+    },
+    {
+        "char": "\u06f7",
+        "normalized": "7"
+    },
+    {
+        "char": "\u06f8",
+        "normalized": "8"
+    },
+    {
+        "char": "\u06f9",
+        "normalized": "9"
+    },
+    {
+        "char": "\u070f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0711",
+        "normalized": " "
+    },
+    {
+        "char": "\u0730",
+        "normalized": " "
+    },
+    {
+        "char": "\u0731",
+        "normalized": " "
+    },
+    {
+        "char": "\u0732",
+        "normalized": " "
+    },
+    {
+        "char": "\u0733",
+        "normalized": " "
+    },
+    {
+        "char": "\u0734",
+        "normalized": " "
+    },
+    {
+        "char": "\u0735",
+        "normalized": " "
+    },
+    {
+        "char": "\u0736",
+        "normalized": " "
+    },
+    {
+        "char": "\u0737",
+        "normalized": " "
+    },
+    {
+        "char": "\u0738",
+        "normalized": " "
+    },
+    {
+        "char": "\u0739",
+        "normalized": " "
+    },
+    {
+        "char": "\u073a",
+        "normalized": " "
+    },
+    {
+        "char": "\u073b",
+        "normalized": " "
+    },
+    {
+        "char": "\u073c",
+        "normalized": " "
+    },
+    {
+        "char": "\u073d",
+        "normalized": " "
+    },
+    {
+        "char": "\u073e",
+        "normalized": " "
+    },
+    {
+        "char": "\u073f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0740",
+        "normalized": " "
+    },
+    {
+        "char": "\u0741",
+        "normalized": " "
+    },
+    {
+        "char": "\u0742",
+        "normalized": " "
+    },
+    {
+        "char": "\u0743",
+        "normalized": " "
+    },
+    {
+        "char": "\u0744",
+        "normalized": " "
+    },
+    {
+        "char": "\u0745",
+        "normalized": " "
+    },
+    {
+        "char": "\u0746",
+        "normalized": " "
+    },
+    {
+        "char": "\u0747",
+        "normalized": " "
+    },
+    {
+        "char": "\u0748",
+        "normalized": " "
+    },
+    {
+        "char": "\u0749",
+        "normalized": " "
+    },
+    {
+        "char": "\u074a",
+        "normalized": " "
+    },
+    {
+        "char": "\u0901",
+        "normalized": " "
+    },
+    {
+        "char": "\u0902",
+        "normalized": " "
+    },
+    {
+        "char": "\u0903",
+        "normalized": " "
+    },
+    {
+        "char": "\u093c",
+        "normalized": " "
+    },
+    {
+        "char": "\u0951",
+        "normalized": " "
+    },
+    {
+        "char": "\u0952",
+        "normalized": " "
+    },
+    {
+        "char": "\u0953",
+        "normalized": " "
+    },
+    {
+        "char": "\u0954",
+        "normalized": " "
+    },
+    {
+        "char": "\u0966",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0967",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0968",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0969",
+        "normalized": "3"
+    },
+    {
+        "char": "\u096a",
+        "normalized": "4"
+    },
+    {
+        "char": "\u096b",
+        "normalized": "5"
+    },
+    {
+        "char": "\u096c",
+        "normalized": "6"
+    },
+    {
+        "char": "\u096d",
+        "normalized": "7"
+    },
+    {
+        "char": "\u096e",
+        "normalized": "8"
+    },
+    {
+        "char": "\u096f",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0981",
+        "normalized": " "
+    },
+    {
+        "char": "\u0982",
+        "normalized": " "
+    },
+    {
+        "char": "\u0983",
+        "normalized": " "
+    },
+    {
+        "char": "\u09bc",
+        "normalized": " "
+    },
+    {
+        "char": "\u09e6",
+        "normalized": "0"
+    },
+    {
+        "char": "\u09e7",
+        "normalized": "1"
+    },
+    {
+        "char": "\u09e8",
+        "normalized": "2"
+    },
+    {
+        "char": "\u09e9",
+        "normalized": "3"
+    },
+    {
+        "char": "\u09ea",
+        "normalized": "4"
+    },
+    {
+        "char": "\u09eb",
+        "normalized": "5"
+    },
+    {
+        "char": "\u09ec",
+        "normalized": "6"
+    },
+    {
+        "char": "\u09ed",
+        "normalized": "7"
+    },
+    {
+        "char": "\u09ee",
+        "normalized": "8"
+    },
+    {
+        "char": "\u09ef",
+        "normalized": "9"
+    },
+    {
+        "char": "\u09f4",
+        "normalized": "1"
+    },
+    {
+        "char": "\u09f5",
+        "normalized": "2"
+    },
+    {
+        "char": "\u09f6",
+        "normalized": "3"
+    },
+    {
+        "char": "\u09f7",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0a01",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a02",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a03",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a3c",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a66",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0a67",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0a68",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0a69",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0a6a",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0a6b",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0a6c",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0a6d",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0a6e",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0a6f",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0a70",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a71",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a81",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a82",
+        "normalized": " "
+    },
+    {
+        "char": "\u0a83",
+        "normalized": " "
+    },
+    {
+        "char": "\u0abc",
+        "normalized": " "
+    },
+    {
+        "char": "\u0ae6",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0ae7",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0ae8",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0ae9",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0aea",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0aeb",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0aec",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0aed",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0aee",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0aef",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0b01",
+        "normalized": " "
+    },
+    {
+        "char": "\u0b02",
+        "normalized": " "
+    },
+    {
+        "char": "\u0b03",
+        "normalized": " "
+    },
+    {
+        "char": "\u0b3c",
+        "normalized": " "
+    },
+    {
+        "char": "\u0b66",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0b67",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0b68",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0b69",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0b6a",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0b6b",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0b6c",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0b6d",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0b6e",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0b6f",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0b82",
+        "normalized": " "
+    },
+    {
+        "char": "\u0be7",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0be8",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0be9",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0bea",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0beb",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0bec",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0bed",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0bee",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0bef",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0c01",
+        "normalized": " "
+    },
+    {
+        "char": "\u0c02",
+        "normalized": " "
+    },
+    {
+        "char": "\u0c03",
+        "normalized": " "
+    },
+    {
+        "char": "\u0c66",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0c67",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0c68",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0c69",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0c6a",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0c6b",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0c6c",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0c6d",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0c6e",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0c6f",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0c82",
+        "normalized": " "
+    },
+    {
+        "char": "\u0c83",
+        "normalized": " "
+    },
+    {
+        "char": "\u0cbc",
+        "normalized": " "
+    },
+    {
+        "char": "\u0ce6",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0ce7",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0ce8",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0ce9",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0cea",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0ceb",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0cec",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0ced",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0cee",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0cef",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0d02",
+        "normalized": " "
+    },
+    {
+        "char": "\u0d03",
+        "normalized": " "
+    },
+    {
+        "char": "\u0d66",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0d67",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0d68",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0d69",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0d6a",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0d6b",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0d6c",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0d6d",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0d6e",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0d6f",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0d82",
+        "normalized": " "
+    },
+    {
+        "char": "\u0d83",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e47",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e48",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e49",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e4a",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e4b",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e4e",
+        "normalized": " "
+    },
+    {
+        "char": "\u0e50",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0e51",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0e52",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0e53",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0e54",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0e55",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0e56",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0e57",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0e58",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0e59",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0ec8",
+        "normalized": " "
+    },
+    {
+        "char": "\u0ec9",
+        "normalized": " "
+    },
+    {
+        "char": "\u0eca",
+        "normalized": " "
+    },
+    {
+        "char": "\u0ecb",
+        "normalized": " "
+    },
+    {
+        "char": "\u0ed0",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0ed1",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0ed2",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0ed3",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0ed4",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0ed5",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0ed6",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0ed7",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0ed8",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0ed9",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0f18",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f19",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f20",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0f21",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0f22",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0f23",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0f24",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0f25",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0f26",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0f27",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0f28",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0f29",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0f2a",
+        "normalized": "1"
+    },
+    {
+        "char": "\u0f2b",
+        "normalized": "2"
+    },
+    {
+        "char": "\u0f2c",
+        "normalized": "3"
+    },
+    {
+        "char": "\u0f2d",
+        "normalized": "4"
+    },
+    {
+        "char": "\u0f2e",
+        "normalized": "5"
+    },
+    {
+        "char": "\u0f2f",
+        "normalized": "6"
+    },
+    {
+        "char": "\u0f30",
+        "normalized": "7"
+    },
+    {
+        "char": "\u0f31",
+        "normalized": "8"
+    },
+    {
+        "char": "\u0f32",
+        "normalized": "9"
+    },
+    {
+        "char": "\u0f33",
+        "normalized": "0"
+    },
+    {
+        "char": "\u0f35",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f37",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f39",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f7e",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f7f",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f82",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f83",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f86",
+        "normalized": " "
+    },
+    {
+        "char": "\u0f87",
+        "normalized": " "
+    },
+    {
+        "char": "\u0fc6",
+        "normalized": " "
+    },
+    {
+        "char": "\u1036",
+        "normalized": " "
+    },
+    {
+        "char": "\u1037",
+        "normalized": " "
+    },
+    {
+        "char": "\u1038",
+        "normalized": " "
+    },
+    {
+        "char": "\u1040",
+        "normalized": "0"
+    },
+    {
+        "char": "\u1041",
+        "normalized": "1"
+    },
+    {
+        "char": "\u1042",
+        "normalized": "2"
+    },
+    {
+        "char": "\u1043",
+        "normalized": "3"
+    },
+    {
+        "char": "\u1044",
+        "normalized": "4"
+    },
+    {
+        "char": "\u1045",
+        "normalized": "5"
+    },
+    {
+        "char": "\u1046",
+        "normalized": "6"
+    },
+    {
+        "char": "\u1047",
+        "normalized": "7"
+    },
+    {
+        "char": "\u1048",
+        "normalized": "8"
+    },
+    {
+        "char": "\u1049",
+        "normalized": "9"
+    },
+    {
+        "char": "\u1369",
+        "normalized": "1"
+    },
+    {
+        "char": "\u136a",
+        "normalized": "2"
+    },
+    {
+        "char": "\u136b",
+        "normalized": "3"
+    },
+    {
+        "char": "\u136c",
+        "normalized": "4"
+    },
+    {
+        "char": "\u136d",
+        "normalized": "5"
+    },
+    {
+        "char": "\u136e",
+        "normalized": "6"
+    },
+    {
+        "char": "\u136f",
+        "normalized": "7"
+    },
+    {
+        "char": "\u1370",
+        "normalized": "8"
+    },
+    {
+        "char": "\u1371",
+        "normalized": "9"
+    },
+    {
+        "char": "\u17c6",
+        "normalized": " "
+    },
+    {
+        "char": "\u17c7",
+        "normalized": " "
+    },
+    {
+        "char": "\u17c8",
+        "normalized": " "
+    },
+    {
+        "char": "\u17c9",
+        "normalized": " "
+    },
+    {
+        "char": "\u17ca",
+        "normalized": " "
+    },
+    {
+        "char": "\u17cb",
+        "normalized": " "
+    },
+    {
+        "char": "\u17cc",
+        "normalized": " "
+    },
+    {
+        "char": "\u17cd",
+        "normalized": " "
+    },
+    {
+        "char": "\u17ce",
+        "normalized": " "
+    },
+    {
+        "char": "\u17cf",
+        "normalized": " "
+    },
+    {
+        "char": "\u17d0",
+        "normalized": " "
+    },
+    {
+        "char": "\u17d1",
+        "normalized": " "
+    },
+    {
+        "char": "\u17d3",
+        "normalized": " "
+    },
+    {
+        "char": "\u17dd",
+        "normalized": " "
+    },
+    {
+        "char": "\u17e0",
+        "normalized": "0"
+    },
+    {
+        "char": "\u17e1",
+        "normalized": "1"
+    },
+    {
+        "char": "\u17e2",
+        "normalized": "2"
+    },
+    {
+        "char": "\u17e3",
+        "normalized": "3"
+    },
+    {
+        "char": "\u17e4",
+        "normalized": "4"
+    },
+    {
+        "char": "\u17e5",
+        "normalized": "5"
+    },
+    {
+        "char": "\u17e6",
+        "normalized": "6"
+    },
+    {
+        "char": "\u17e7",
+        "normalized": "7"
+    },
+    {
+        "char": "\u17e8",
+        "normalized": "8"
+    },
+    {
+        "char": "\u17e9",
+        "normalized": "9"
+    },
+    {
+        "char": "\u17f0",
+        "normalized": "0"
+    },
+    {
+        "char": "\u17f1",
+        "normalized": "1"
+    },
+    {
+        "char": "\u17f2",
+        "normalized": "2"
+    },
+    {
+        "char": "\u17f3",
+        "normalized": "3"
+    },
+    {
+        "char": "\u17f4",
+        "normalized": "4"
+    },
+    {
+        "char": "\u17f5",
+        "normalized": "5"
+    },
+    {
+        "char": "\u17f6",
+        "normalized": "6"
+    },
+    {
+        "char": "\u17f7",
+        "normalized": "7"
+    },
+    {
+        "char": "\u17f8",
+        "normalized": "8"
+    },
+    {
+        "char": "\u17f9",
+        "normalized": "9"
+    },
+    {
+        "char": "\u180b",
+        "normalized": " "
+    },
+    {
+        "char": "\u180c",
+        "normalized": " "
+    },
+    {
+        "char": "\u180d",
+        "normalized": " "
+    },
+    {
+        "char": "\u180e",
+        "normalized": " "
+    },
+    {
+        "char": "\u1810",
+        "normalized": "0"
+    },
+    {
+        "char": "\u1811",
+        "normalized": "1"
+    },
+    {
+        "char": "\u1812",
+        "normalized": "2"
+    },
+    {
+        "char": "\u1813",
+        "normalized": "3"
+    },
+    {
+        "char": "\u1814",
+        "normalized": "4"
+    },
+    {
+        "char": "\u1815",
+        "normalized": "5"
+    },
+    {
+        "char": "\u1816",
+        "normalized": "6"
+    },
+    {
+        "char": "\u1817",
+        "normalized": "7"
+    },
+    {
+        "char": "\u1818",
+        "normalized": "8"
+    },
+    {
+        "char": "\u1819",
+        "normalized": "9"
+    },
+    {
+        "char": "\u1939",
+        "normalized": " "
+    },
+    {
+        "char": "\u193a",
+        "normalized": " "
+    },
+    {
+        "char": "\u193b",
+        "normalized": " "
+    },
+    {
+        "char": "\u1946",
+        "normalized": "0"
+    },
+    {
+        "char": "\u1947",
+        "normalized": "1"
+    },
+    {
+        "char": "\u1948",
+        "normalized": "2"
+    },
+    {
+        "char": "\u1949",
+        "normalized": "3"
+    },
+    {
+        "char": "\u194a",
+        "normalized": "4"
+    },
+    {
+        "char": "\u194b",
+        "normalized": "5"
+    },
+    {
+        "char": "\u194c",
+        "normalized": "6"
+    },
+    {
+        "char": "\u194d",
+        "normalized": "7"
+    },
+    {
+        "char": "\u194e",
+        "normalized": "8"
+    },
+    {
+        "char": "\u194f",
+        "normalized": "9"
+    },
+    {
+        "char": "\u1d2c",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1d2e",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1d30",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1d31",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1d33",
+        "normalized": "G"
+    },
+    {
+        "char": "\u1d34",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1d35",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1d36",
+        "normalized": "J"
+    },
+    {
+        "char": "\u1d37",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1d38",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1d39",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1d3a",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1d3c",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1d3e",
+        "normalized": "P"
+    },
+    {
+        "char": "\u1d3f",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1d40",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1d41",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1d42",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1d43",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1d47",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1d48",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1d49",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1d4d",
+        "normalized": "G"
+    },
+    {
+        "char": "\u1d4f",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1d50",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1d52",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1d56",
+        "normalized": "P"
+    },
+    {
+        "char": "\u1d57",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1d58",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1d5b",
+        "normalized": "V"
+    },
+    {
+        "char": "\u1d62",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1d63",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1d64",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1d65",
+        "normalized": "V"
+    },
+    {
+        "char": "\u1e00",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1e01",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1e02",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1e03",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1e04",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1e05",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1e06",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1e07",
+        "normalized": "B"
+    },
+    {
+        "char": "\u1e08",
+        "normalized": "C"
+    },
+    {
+        "char": "\u1e09",
+        "normalized": "C"
+    },
+    {
+        "char": "\u1e0a",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e0b",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e0c",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e0d",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e0e",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e0f",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e10",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e11",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e12",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e13",
+        "normalized": "D"
+    },
+    {
+        "char": "\u1e14",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e15",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e16",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e17",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e18",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e19",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e1a",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e1b",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e1c",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e1d",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1e1e",
+        "normalized": "F"
+    },
+    {
+        "char": "\u1e1f",
+        "normalized": "F"
+    },
+    {
+        "char": "\u1e20",
+        "normalized": "G"
+    },
+    {
+        "char": "\u1e21",
+        "normalized": "G"
+    },
+    {
+        "char": "\u1e22",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e23",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e24",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e25",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e26",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e27",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e28",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e29",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e2a",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e2b",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e2c",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1e2d",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1e2e",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1e2f",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1e30",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1e31",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1e32",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1e33",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1e34",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1e35",
+        "normalized": "K"
+    },
+    {
+        "char": "\u1e36",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e37",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e38",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e39",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e3a",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e3b",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e3c",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e3d",
+        "normalized": "L"
+    },
+    {
+        "char": "\u1e3e",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1e3f",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1e40",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1e41",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1e42",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1e43",
+        "normalized": "M"
+    },
+    {
+        "char": "\u1e44",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e45",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e46",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e47",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e48",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e49",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e4a",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e4b",
+        "normalized": "N"
+    },
+    {
+        "char": "\u1e4c",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e4d",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e4e",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e4f",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e50",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e51",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e52",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e53",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1e54",
+        "normalized": "P"
+    },
+    {
+        "char": "\u1e55",
+        "normalized": "P"
+    },
+    {
+        "char": "\u1e56",
+        "normalized": "P"
+    },
+    {
+        "char": "\u1e57",
+        "normalized": "P"
+    },
+    {
+        "char": "\u1e58",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e59",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e5a",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e5b",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e5c",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e5d",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e5e",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e5f",
+        "normalized": "R"
+    },
+    {
+        "char": "\u1e60",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e61",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e62",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e63",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e64",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e65",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e66",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e67",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e68",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e69",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1e6a",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e6b",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e6c",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e6d",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e6e",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e6f",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e70",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e71",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e72",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e73",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e74",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e75",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e76",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e77",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e78",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e79",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e7a",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e7b",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1e7c",
+        "normalized": "V"
+    },
+    {
+        "char": "\u1e7d",
+        "normalized": "V"
+    },
+    {
+        "char": "\u1e7e",
+        "normalized": "V"
+    },
+    {
+        "char": "\u1e7f",
+        "normalized": "V"
+    },
+    {
+        "char": "\u1e80",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e81",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e82",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e83",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e84",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e85",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e86",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e87",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e88",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e89",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e8a",
+        "normalized": "X"
+    },
+    {
+        "char": "\u1e8b",
+        "normalized": "X"
+    },
+    {
+        "char": "\u1e8c",
+        "normalized": "X"
+    },
+    {
+        "char": "\u1e8d",
+        "normalized": "X"
+    },
+    {
+        "char": "\u1e8e",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1e8f",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1e90",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u1e91",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u1e92",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u1e93",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u1e94",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u1e95",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u1e96",
+        "normalized": "H"
+    },
+    {
+        "char": "\u1e97",
+        "normalized": "T"
+    },
+    {
+        "char": "\u1e98",
+        "normalized": "W"
+    },
+    {
+        "char": "\u1e99",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1e9b",
+        "normalized": "S"
+    },
+    {
+        "char": "\u1ea0",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea1",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea2",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea3",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea4",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea5",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea6",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea7",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea8",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ea9",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eaa",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eab",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eac",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1ead",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eae",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eaf",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb0",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb1",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb2",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb3",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb4",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb5",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb6",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb7",
+        "normalized": "A"
+    },
+    {
+        "char": "\u1eb8",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1eb9",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1eba",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ebb",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ebc",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ebd",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ebe",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ebf",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec0",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec1",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec2",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec3",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec4",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec5",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec6",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec7",
+        "normalized": "E"
+    },
+    {
+        "char": "\u1ec8",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1ec9",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1eca",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1ecb",
+        "normalized": "I"
+    },
+    {
+        "char": "\u1ecc",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ecd",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ece",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ecf",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed0",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed1",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed2",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed3",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed4",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed5",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed6",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed7",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed8",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ed9",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1eda",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1edb",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1edc",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1edd",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ede",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1edf",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ee0",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ee1",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ee2",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ee3",
+        "normalized": "O"
+    },
+    {
+        "char": "\u1ee4",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ee5",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ee6",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ee7",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ee8",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ee9",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1eea",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1eeb",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1eec",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1eed",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1eee",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1eef",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ef0",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ef1",
+        "normalized": "U"
+    },
+    {
+        "char": "\u1ef2",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef3",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef4",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef5",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef6",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef7",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef8",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1ef9",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u1fef",
+        "normalized": "`"
+    },
+    {
+        "char": "\u2000",
+        "normalized": " "
+    },
+    {
+        "char": "\u2001",
+        "normalized": " "
+    },
+    {
+        "char": "\u2002",
+        "normalized": " "
+    },
+    {
+        "char": "\u2003",
+        "normalized": " "
+    },
+    {
+        "char": "\u2004",
+        "normalized": " "
+    },
+    {
+        "char": "\u2005",
+        "normalized": " "
+    },
+    {
+        "char": "\u2006",
+        "normalized": " "
+    },
+    {
+        "char": "\u2007",
+        "normalized": " "
+    },
+    {
+        "char": "\u2008",
+        "normalized": " "
+    },
+    {
+        "char": "\u2009",
+        "normalized": " "
+    },
+    {
+        "char": "\u200a",
+        "normalized": " "
+    },
+    {
+        "char": "\u200b",
+        "normalized": " "
+    },
+    {
+        "char": "\u200c",
+        "normalized": " "
+    },
+    {
+        "char": "\u200d",
+        "normalized": " "
+    },
+    {
+        "char": "\u200e",
+        "normalized": " "
+    },
+    {
+        "char": "\u200f",
+        "normalized": " "
+    },
+    {
+        "char": "\u2024",
+        "normalized": "."
+    },
+    {
+        "char": "\u202a",
+        "normalized": " "
+    },
+    {
+        "char": "\u202b",
+        "normalized": " "
+    },
+    {
+        "char": "\u202c",
+        "normalized": " "
+    },
+    {
+        "char": "\u202d",
+        "normalized": " "
+    },
+    {
+        "char": "\u202e",
+        "normalized": " "
+    },
+    {
+        "char": "\u202f",
+        "normalized": " "
+    },
+    {
+        "char": "\u205f",
+        "normalized": " "
+    },
+    {
+        "char": "\u2060",
+        "normalized": " "
+    },
+    {
+        "char": "\u2061",
+        "normalized": " "
+    },
+    {
+        "char": "\u2062",
+        "normalized": " "
+    },
+    {
+        "char": "\u2063",
+        "normalized": " "
+    },
+    {
+        "char": "\u206a",
+        "normalized": " "
+    },
+    {
+        "char": "\u206b",
+        "normalized": " "
+    },
+    {
+        "char": "\u206c",
+        "normalized": " "
+    },
+    {
+        "char": "\u206d",
+        "normalized": " "
+    },
+    {
+        "char": "\u206e",
+        "normalized": " "
+    },
+    {
+        "char": "\u206f",
+        "normalized": " "
+    },
+    {
+        "char": "\u2070",
+        "normalized": "0"
+    },
+    {
+        "char": "\u2071",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2074",
+        "normalized": "4"
+    },
+    {
+        "char": "\u2075",
+        "normalized": "5"
+    },
+    {
+        "char": "\u2076",
+        "normalized": "6"
+    },
+    {
+        "char": "\u2077",
+        "normalized": "7"
+    },
+    {
+        "char": "\u2078",
+        "normalized": "8"
+    },
+    {
+        "char": "\u2079",
+        "normalized": "9"
+    },
+    {
+        "char": "\u207a",
+        "normalized": "+"
+    },
+    {
+        "char": "\u207c",
+        "normalized": "="
+    },
+    {
+        "char": "\u207d",
+        "normalized": "("
+    },
+    {
+        "char": "\u207e",
+        "normalized": ")"
+    },
+    {
+        "char": "\u207f",
+        "normalized": "N"
+    },
+    {
+        "char": "\u2080",
+        "normalized": "0"
+    },
+    {
+        "char": "\u2081",
+        "normalized": "1"
+    },
+    {
+        "char": "\u2082",
+        "normalized": "2"
+    },
+    {
+        "char": "\u2083",
+        "normalized": "3"
+    },
+    {
+        "char": "\u2084",
+        "normalized": "4"
+    },
+    {
+        "char": "\u2085",
+        "normalized": "5"
+    },
+    {
+        "char": "\u2086",
+        "normalized": "6"
+    },
+    {
+        "char": "\u2087",
+        "normalized": "7"
+    },
+    {
+        "char": "\u2088",
+        "normalized": "8"
+    },
+    {
+        "char": "\u2089",
+        "normalized": "9"
+    },
+    {
+        "char": "\u208a",
+        "normalized": "+"
+    },
+    {
+        "char": "\u208c",
+        "normalized": "="
+    },
+    {
+        "char": "\u208d",
+        "normalized": "("
+    },
+    {
+        "char": "\u208e",
+        "normalized": ")"
+    },
+    {
+        "char": "\u20d0",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d1",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d2",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d3",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d4",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d5",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d6",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d7",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d8",
+        "normalized": " "
+    },
+    {
+        "char": "\u20d9",
+        "normalized": " "
+    },
+    {
+        "char": "\u20da",
+        "normalized": " "
+    },
+    {
+        "char": "\u20db",
+        "normalized": " "
+    },
+    {
+        "char": "\u20dc",
+        "normalized": " "
+    },
+    {
+        "char": "\u20dd",
+        "normalized": " "
+    },
+    {
+        "char": "\u20de",
+        "normalized": " "
+    },
+    {
+        "char": "\u20df",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e0",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e1",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e2",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e3",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e4",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e5",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e6",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e7",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e8",
+        "normalized": " "
+    },
+    {
+        "char": "\u20e9",
+        "normalized": " "
+    },
+    {
+        "char": "\u20ea",
+        "normalized": " "
+    },
+    {
+        "char": "\u2102",
+        "normalized": "C"
+    },
+    {
+        "char": "\u210a",
+        "normalized": "G"
+    },
+    {
+        "char": "\u210b",
+        "normalized": "H"
+    },
+    {
+        "char": "\u210c",
+        "normalized": "H"
+    },
+    {
+        "char": "\u210d",
+        "normalized": "H"
+    },
+    {
+        "char": "\u210e",
+        "normalized": "H"
+    },
+    {
+        "char": "\u2110",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2111",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2112",
+        "normalized": "L"
+    },
+    {
+        "char": "\u2113",
+        "normalized": "L"
+    },
+    {
+        "char": "\u2115",
+        "normalized": "N"
+    },
+    {
+        "char": "\u2119",
+        "normalized": "P"
+    },
+    {
+        "char": "\u211a",
+        "normalized": "Q"
+    },
+    {
+        "char": "\u211b",
+        "normalized": "R"
+    },
+    {
+        "char": "\u211c",
+        "normalized": "R"
+    },
+    {
+        "char": "\u211d",
+        "normalized": "R"
+    },
+    {
+        "char": "\u2124",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u2128",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u212a",
+        "normalized": "K"
+    },
+    {
+        "char": "\u212b",
+        "normalized": "A"
+    },
+    {
+        "char": "\u212c",
+        "normalized": "B"
+    },
+    {
+        "char": "\u212d",
+        "normalized": "C"
+    },
+    {
+        "char": "\u212f",
+        "normalized": "E"
+    },
+    {
+        "char": "\u2130",
+        "normalized": "E"
+    },
+    {
+        "char": "\u2131",
+        "normalized": "F"
+    },
+    {
+        "char": "\u2133",
+        "normalized": "M"
+    },
+    {
+        "char": "\u2134",
+        "normalized": "O"
+    },
+    {
+        "char": "\u2139",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2145",
+        "normalized": "D"
+    },
+    {
+        "char": "\u2146",
+        "normalized": "D"
+    },
+    {
+        "char": "\u2147",
+        "normalized": "E"
+    },
+    {
+        "char": "\u2148",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2149",
+        "normalized": "J"
+    },
+    {
+        "char": "\u2160",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2164",
+        "normalized": "V"
+    },
+    {
+        "char": "\u2169",
+        "normalized": "X"
+    },
+    {
+        "char": "\u216c",
+        "normalized": "L"
+    },
+    {
+        "char": "\u216d",
+        "normalized": "C"
+    },
+    {
+        "char": "\u216e",
+        "normalized": "D"
+    },
+    {
+        "char": "\u216f",
+        "normalized": "M"
+    },
+    {
+        "char": "\u2170",
+        "normalized": "I"
+    },
+    {
+        "char": "\u2174",
+        "normalized": "V"
+    },
+    {
+        "char": "\u2179",
+        "normalized": "X"
+    },
+    {
+        "char": "\u217c",
+        "normalized": "L"
+    },
+    {
+        "char": "\u217d",
+        "normalized": "C"
+    },
+    {
+        "char": "\u217e",
+        "normalized": "D"
+    },
+    {
+        "char": "\u217f",
+        "normalized": "M"
+    },
+    {
+        "char": "\u2260",
+        "normalized": "="
+    },
+    {
+        "char": "\u226e",
+        "normalized": "<"
+    },
+    {
+        "char": "\u226f",
+        "normalized": ">"
+    },
+    {
+        "char": "\u2460",
+        "normalized": "1"
+    },
+    {
+        "char": "\u2461",
+        "normalized": "2"
+    },
+    {
+        "char": "\u2462",
+        "normalized": "3"
+    },
+    {
+        "char": "\u2463",
+        "normalized": "4"
+    },
+    {
+        "char": "\u2464",
+        "normalized": "5"
+    },
+    {
+        "char": "\u2465",
+        "normalized": "6"
+    },
+    {
+        "char": "\u2466",
+        "normalized": "7"
+    },
+    {
+        "char": "\u2467",
+        "normalized": "8"
+    },
+    {
+        "char": "\u2468",
+        "normalized": "9"
+    },
+    {
+        "char": "\u24b6",
+        "normalized": "A"
+    },
+    {
+        "char": "\u24b7",
+        "normalized": "B"
+    },
+    {
+        "char": "\u24b8",
+        "normalized": "C"
+    },
+    {
+        "char": "\u24b9",
+        "normalized": "D"
+    },
+    {
+        "char": "\u24ba",
+        "normalized": "E"
+    },
+    {
+        "char": "\u24bb",
+        "normalized": "F"
+    },
+    {
+        "char": "\u24bc",
+        "normalized": "G"
+    },
+    {
+        "char": "\u24bd",
+        "normalized": "H"
+    },
+    {
+        "char": "\u24be",
+        "normalized": "I"
+    },
+    {
+        "char": "\u24bf",
+        "normalized": "J"
+    },
+    {
+        "char": "\u24c0",
+        "normalized": "K"
+    },
+    {
+        "char": "\u24c1",
+        "normalized": "L"
+    },
+    {
+        "char": "\u24c2",
+        "normalized": "M"
+    },
+    {
+        "char": "\u24c3",
+        "normalized": "N"
+    },
+    {
+        "char": "\u24c4",
+        "normalized": "O"
+    },
+    {
+        "char": "\u24c5",
+        "normalized": "P"
+    },
+    {
+        "char": "\u24c6",
+        "normalized": "Q"
+    },
+    {
+        "char": "\u24c7",
+        "normalized": "R"
+    },
+    {
+        "char": "\u24c8",
+        "normalized": "S"
+    },
+    {
+        "char": "\u24c9",
+        "normalized": "T"
+    },
+    {
+        "char": "\u24ca",
+        "normalized": "U"
+    },
+    {
+        "char": "\u24cb",
+        "normalized": "V"
+    },
+    {
+        "char": "\u24cc",
+        "normalized": "W"
+    },
+    {
+        "char": "\u24cd",
+        "normalized": "X"
+    },
+    {
+        "char": "\u24ce",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u24cf",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u24d0",
+        "normalized": "A"
+    },
+    {
+        "char": "\u24d1",
+        "normalized": "B"
+    },
+    {
+        "char": "\u24d2",
+        "normalized": "C"
+    },
+    {
+        "char": "\u24d3",
+        "normalized": "D"
+    },
+    {
+        "char": "\u24d4",
+        "normalized": "E"
+    },
+    {
+        "char": "\u24d5",
+        "normalized": "F"
+    },
+    {
+        "char": "\u24d6",
+        "normalized": "G"
+    },
+    {
+        "char": "\u24d7",
+        "normalized": "H"
+    },
+    {
+        "char": "\u24d8",
+        "normalized": "I"
+    },
+    {
+        "char": "\u24d9",
+        "normalized": "J"
+    },
+    {
+        "char": "\u24da",
+        "normalized": "K"
+    },
+    {
+        "char": "\u24db",
+        "normalized": "L"
+    },
+    {
+        "char": "\u24dc",
+        "normalized": "M"
+    },
+    {
+        "char": "\u24dd",
+        "normalized": "N"
+    },
+    {
+        "char": "\u24de",
+        "normalized": "O"
+    },
+    {
+        "char": "\u24df",
+        "normalized": "P"
+    },
+    {
+        "char": "\u24e0",
+        "normalized": "Q"
+    },
+    {
+        "char": "\u24e1",
+        "normalized": "R"
+    },
+    {
+        "char": "\u24e2",
+        "normalized": "S"
+    },
+    {
+        "char": "\u24e3",
+        "normalized": "T"
+    },
+    {
+        "char": "\u24e4",
+        "normalized": "U"
+    },
+    {
+        "char": "\u24e5",
+        "normalized": "V"
+    },
+    {
+        "char": "\u24e6",
+        "normalized": "W"
+    },
+    {
+        "char": "\u24e7",
+        "normalized": "X"
+    },
+    {
+        "char": "\u24e8",
+        "normalized": "Y"
+    },
+    {
+        "char": "\u24e9",
+        "normalized": "Z"
+    },
+    {
+        "char": "\u24ea",
+        "normalized": "0"
+    },
+    {
+        "char": "\u24f5",
+        "normalized": "1"
+    },
+    {
+        "char": "\u24f6",
+        "normalized": "2"
+    },
+    {
+        "char": "\u24f7",
+        "normalized": "3"
+    },
+    {
+        "char": "\u24f8",
+        "normalized": "4"
+    },
+    {
+        "char": "\u24f9",
+        "normalized": "5"
+    },
+    {
+        "char": "\u24fa",
+        "normalized": "6"
+    },
+    {
+        "char": "\u24fb",
+        "normalized": "7"
+    },
+    {
+        "char": "\u24fc",
+        "normalized": "8"
+    },
+    {
+        "char": "\u24fd",
+        "normalized": "9"
+    },
+    {
+        "char": "\u24ff",
+        "normalized": "0"
+    },
+    {
+        "char": "\u2776",
+        "normalized": "1"
+    },
+    {
+        "char": "\u2777",
+        "normalized": "2"
+    },
+    {
+        "char": "\u2778",
+        "normalized": "3"
+    },
+    {
+        "char": "\u2779",
+        "normalized": "4"
+    },
+    {
+        "char": "\u277a",
+        "normalized": "5"
+    },
+    {
+        "char": "\u277b",
+        "normalized": "6"
+    },
+    {
+        "char": "\u277c",
+        "normalized": "7"
+    },
+    {
+        "char": "\u277d",
+        "normalized": "8"
+    },
+    {
+        "char": "\u277e",
+        "normalized": "9"
+    },
+    {
+        "char": "\u2780",
+        "normalized": "1"
+    },
+    {
+        "char": "\u2781",
+        "normalized": "2"
+    },
+    {
+        "char": "\u2782",
+        "normalized": "3"
+    },
+    {
+        "char": "\u2783",
+        "normalized": "4"
+    },
+    {
+        "char": "\u2784",
+        "normalized": "5"
+    },
+    {
+        "char": "\u2785",
+        "normalized": "6"
+    },
+    {
+        "char": "\u2786",
+        "normalized": "7"
+    },
+    {
+        "char": "\u2787",
+        "normalized": "8"
+    },
+    {
+        "char": "\u2788",
+        "normalized": "9"
+    },
+    {
+        "char": "\u278a",
+        "normalized": "1"
+    },
+    {
+        "char": "\u278b",
+        "normalized": "2"
+    },
+    {
+        "char": "\u278c",
+        "normalized": "3"
+    },
+    {
+        "char": "\u278d",
+        "normalized": "4"
+    },
+    {
+        "char": "\u278e",
+        "normalized": "5"
+    },
+    {
+        "char": "\u278f",
+        "normalized": "6"
+    },
+    {
+        "char": "\u2790",
+        "normalized": "7"
+    },
+    {
+        "char": "\u2791",
+        "normalized": "8"
+    },
+    {
+        "char": "\u2792",
+        "normalized": "9"
+    },
+    {
+        "char": "\u3000",
+        "normalized": " "
+    },
+    {
+        "char": "\u3007",
+        "normalized": "0"
+    },
+    {
+        "char": "\u3021",
+        "normalized": "1"
+    },
+    {
+        "char": "\u3022",
+        "normalized": "2"
+    },
+    {
+        "char": "\u3023",
+        "normalized": "3"
+    },
+    {
+        "char": "\u3024",
+        "normalized": "4"
+    },
+    {
+        "char": "\u3025",
+        "normalized": "5"
+    },
+    {
+        "char": "\u3026",
+        "normalized": "6"
+    },
+    {
+        "char": "\u3027",
+        "normalized": "7"
+    },
+    {
+        "char": "\u3028",
+        "normalized": "8"
+    },
+    {
+        "char": "\u3029",
+        "normalized": "9"
+    },
+    {
+        "char": "\u302a",
+        "normalized": " "
+    },
+    {
+        "char": "\u302b",
+        "normalized": " "
+    },
+    {
+        "char": "\u302c",
+        "normalized": " "
+    },
+    {
+        "char": "\u302d",
+        "normalized": " "
+    },
+    {
+        "char": "\u302e",
+        "normalized": " "
+    },
+    {
+        "char": "\u302f",
+        "normalized": " "
+    },
+    {
+        "char": "\u3099",
+        "normalized": " "
+    },
+    {
+        "char": "\u309a",
+        "normalized": " "
+    },
+    {
+        "char": "\ufb1e",
+        "normalized": " "
+    },
+    {
+        "char": "\ufb29",
+        "normalized": "+"
+    },
+    {
+        "char": "\ufc5e",
+        "normalized": " "
+    },
+    {
+        "char": "\ufc5f",
+        "normalized": " "
+    },
+    {
+        "char": "\ufc60",
+        "normalized": " "
+    },
+    {
+        "char": "\ufc61",
+        "normalized": " "
+    },
+    {
+        "char": "\ufc62",
+        "normalized": " "
+    },
+    {
+        "char": "\ufc63",
+        "normalized": " "
+    },
+    {
+        "char": "\ufcf2",
+        "normalized": " "
+    },
+    {
+        "char": "\ufcf3",
+        "normalized": " "
+    },
+    {
+        "char": "\ufcf4",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe00",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe01",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe02",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe03",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe04",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe05",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe06",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe07",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe08",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe09",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe0a",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe0b",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe0c",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe0d",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe0e",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe0f",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe20",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe21",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe22",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe23",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe33",
+        "normalized": "_"
+    },
+    {
+        "char": "\ufe34",
+        "normalized": "_"
+    },
+    {
+        "char": "\ufe35",
+        "normalized": "("
+    },
+    {
+        "char": "\ufe36",
+        "normalized": ")"
+    },
+    {
+        "char": "\ufe37",
+        "normalized": "{"
+    },
+    {
+        "char": "\ufe38",
+        "normalized": "}"
+    },
+    {
+        "char": "\ufe47",
+        "normalized": "["
+    },
+    {
+        "char": "\ufe48",
+        "normalized": "]"
+    },
+    {
+        "char": "\ufe4d",
+        "normalized": "_"
+    },
+    {
+        "char": "\ufe4e",
+        "normalized": "_"
+    },
+    {
+        "char": "\ufe4f",
+        "normalized": "_"
+    },
+    {
+        "char": "\ufe50",
+        "normalized": ","
+    },
+    {
+        "char": "\ufe52",
+        "normalized": "."
+    },
+    {
+        "char": "\ufe54",
+        "normalized": ";"
+    },
+    {
+        "char": "\ufe55",
+        "normalized": ":"
+    },
+    {
+        "char": "\ufe56",
+        "normalized": "?"
+    },
+    {
+        "char": "\ufe57",
+        "normalized": "!"
+    },
+    {
+        "char": "\ufe59",
+        "normalized": "("
+    },
+    {
+        "char": "\ufe5a",
+        "normalized": ")"
+    },
+    {
+        "char": "\ufe5b",
+        "normalized": "{"
+    },
+    {
+        "char": "\ufe5c",
+        "normalized": "}"
+    },
+    {
+        "char": "\ufe5f",
+        "normalized": "#"
+    },
+    {
+        "char": "\ufe60",
+        "normalized": "&"
+    },
+    {
+        "char": "\ufe61",
+        "normalized": "*"
+    },
+    {
+        "char": "\ufe62",
+        "normalized": "+"
+    },
+    {
+        "char": "\ufe63",
+        "normalized": "-"
+    },
+    {
+        "char": "\ufe64",
+        "normalized": "<"
+    },
+    {
+        "char": "\ufe65",
+        "normalized": ">"
+    },
+    {
+        "char": "\ufe66",
+        "normalized": "="
+    },
+    {
+        "char": "\ufe68",
+        "normalized": "\\"
+    },
+    {
+        "char": "\ufe69",
+        "normalized": "$"
+    },
+    {
+        "char": "\ufe6a",
+        "normalized": "%"
+    },
+    {
+        "char": "\ufe6b",
+        "normalized": "@"
+    },
+    {
+        "char": "\ufe70",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe71",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe72",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe73",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe74",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe76",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe77",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe78",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe79",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe7a",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe7b",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe7c",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe7d",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe7e",
+        "normalized": " "
+    },
+    {
+        "char": "\ufe7f",
+        "normalized": " "
+    },
+    {
+        "char": "\ufeff",
+        "normalized": " "
+    },
+    {
+        "char": "\uff01",
+        "normalized": "!"
+    },
+    {
+        "char": "\uff02",
+        "normalized": "\""
+    },
+    {
+        "char": "\uff03",
+        "normalized": "#"
+    },
+    {
+        "char": "\uff04",
+        "normalized": "$"
+    },
+    {
+        "char": "\uff05",
+        "normalized": "%"
+    },
+    {
+        "char": "\uff06",
+        "normalized": "&"
+    },
+    {
+        "char": "\uff07",
+        "normalized": "'"
+    },
+    {
+        "char": "\uff08",
+        "normalized": "("
+    },
+    {
+        "char": "\uff09",
+        "normalized": ")"
+    },
+    {
+        "char": "\uff0a",
+        "normalized": "*"
+    },
+    {
+        "char": "\uff0b",
+        "normalized": "+"
+    },
+    {
+        "char": "\uff0c",
+        "normalized": ","
+    },
+    {
+        "char": "\uff0d",
+        "normalized": "-"
+    },
+    {
+        "char": "\uff0e",
+        "normalized": "."
+    },
+    {
+        "char": "\uff0f",
+        "normalized": "/"
+    },
+    {
+        "char": "\uff10",
+        "normalized": "0"
+    },
+    {
+        "char": "\uff11",
+        "normalized": "1"
+    },
+    {
+        "char": "\uff12",
+        "normalized": "2"
+    },
+    {
+        "char": "\uff13",
+        "normalized": "3"
+    },
+    {
+        "char": "\uff14",
+        "normalized": "4"
+    },
+    {
+        "char": "\uff15",
+        "normalized": "5"
+    },
+    {
+        "char": "\uff16",
+        "normalized": "6"
+    },
+    {
+        "char": "\uff17",
+        "normalized": "7"
+    },
+    {
+        "char": "\uff18",
+        "normalized": "8"
+    },
+    {
+        "char": "\uff19",
+        "normalized": "9"
+    },
+    {
+        "char": "\uff1a",
+        "normalized": ":"
+    },
+    {
+        "char": "\uff1b",
+        "normalized": ";"
+    },
+    {
+        "char": "\uff1c",
+        "normalized": "<"
+    },
+    {
+        "char": "\uff1d",
+        "normalized": "="
+    },
+    {
+        "char": "\uff1e",
+        "normalized": ">"
+    },
+    {
+        "char": "\uff1f",
+        "normalized": "?"
+    },
+    {
+        "char": "\uff20",
+        "normalized": "@"
+    },
+    {
+        "char": "\uff21",
+        "normalized": "A"
+    },
+    {
+        "char": "\uff22",
+        "normalized": "B"
+    },
+    {
+        "char": "\uff23",
+        "normalized": "C"
+    },
+    {
+        "char": "\uff24",
+        "normalized": "D"
+    },
+    {
+        "char": "\uff25",
+        "normalized": "E"
+    },
+    {
+        "char": "\uff26",
+        "normalized": "F"
+    },
+    {
+        "char": "\uff27",
+        "normalized": "G"
+    },
+    {
+        "char": "\uff28",
+        "normalized": "H"
+    },
+    {
+        "char": "\uff29",
+        "normalized": "I"
+    },
+    {
+        "char": "\uff2a",
+        "normalized": "J"
+    },
+    {
+        "char": "\uff2b",
+        "normalized": "K"
+    },
+    {
+        "char": "\uff2c",
+        "normalized": "L"
+    },
+    {
+        "char": "\uff2d",
+        "normalized": "M"
+    },
+    {
+        "char": "\uff2e",
+        "normalized": "N"
+    },
+    {
+        "char": "\uff2f",
+        "normalized": "O"
+    },
+    {
+        "char": "\uff30",
+        "normalized": "P"
+    },
+    {
+        "char": "\uff31",
+        "normalized": "Q"
+    },
+    {
+        "char": "\uff32",
+        "normalized": "R"
+    },
+    {
+        "char": "\uff33",
+        "normalized": "S"
+    },
+    {
+        "char": "\uff34",
+        "normalized": "T"
+    },
+    {
+        "char": "\uff35",
+        "normalized": "U"
+    },
+    {
+        "char": "\uff36",
+        "normalized": "V"
+    },
+    {
+        "char": "\uff37",
+        "normalized": "W"
+    },
+    {
+        "char": "\uff38",
+        "normalized": "X"
+    },
+    {
+        "char": "\uff39",
+        "normalized": "Y"
+    },
+    {
+        "char": "\uff3a",
+        "normalized": "Z"
+    },
+    {
+        "char": "\uff3b",
+        "normalized": "["
+    },
+    {
+        "char": "\uff3c",
+        "normalized": "\\"
+    },
+    {
+        "char": "\uff3d",
+        "normalized": "]"
+    },
+    {
+        "char": "\uff3e",
+        "normalized": "^"
+    },
+    {
+        "char": "\uff3f",
+        "normalized": "_"
+    },
+    {
+        "char": "\uff40",
+        "normalized": "`"
+    },
+    {
+        "char": "\uff41",
+        "normalized": "A"
+    },
+    {
+        "char": "\uff42",
+        "normalized": "B"
+    },
+    {
+        "char": "\uff43",
+        "normalized": "C"
+    },
+    {
+        "char": "\uff44",
+        "normalized": "D"
+    },
+    {
+        "char": "\uff45",
+        "normalized": "E"
+    },
+    {
+        "char": "\uff46",
+        "normalized": "F"
+    },
+    {
+        "char": "\uff47",
+        "normalized": "G"
+    },
+    {
+        "char": "\uff48",
+        "normalized": "H"
+    },
+    {
+        "char": "\uff49",
+        "normalized": "I"
+    },
+    {
+        "char": "\uff4a",
+        "normalized": "J"
+    },
+    {
+        "char": "\uff4b",
+        "normalized": "K"
+    },
+    {
+        "char": "\uff4c",
+        "normalized": "L"
+    },
+    {
+        "char": "\uff4d",
+        "normalized": "M"
+    },
+    {
+        "char": "\uff4e",
+        "normalized": "N"
+    },
+    {
+        "char": "\uff4f",
+        "normalized": "O"
+    },
+    {
+        "char": "\uff50",
+        "normalized": "P"
+    },
+    {
+        "char": "\uff51",
+        "normalized": "Q"
+    },
+    {
+        "char": "\uff52",
+        "normalized": "R"
+    },
+    {
+        "char": "\uff53",
+        "normalized": "S"
+    },
+    {
+        "char": "\uff54",
+        "normalized": "T"
+    },
+    {
+        "char": "\uff55",
+        "normalized": "U"
+    },
+    {
+        "char": "\uff56",
+        "normalized": "V"
+    },
+    {
+        "char": "\uff57",
+        "normalized": "W"
+    },
+    {
+        "char": "\uff58",
+        "normalized": "X"
+    },
+    {
+        "char": "\uff59",
+        "normalized": "Y"
+    },
+    {
+        "char": "\uff5a",
+        "normalized": "Z"
+    },
+    {
+        "char": "\uff5b",
+        "normalized": "{"
+    },
+    {
+        "char": "\uff5c",
+        "normalized": "|"
+    },
+    {
+        "char": "\uff5d",
+        "normalized": "}"
+    },
+    {
+        "char": "\uff5e",
+        "normalized": "~"
+    },
+    {
+        "char": "\uff9e",
+        "normalized": " "
+    },
+    {
+        "char": "\uff9f",
+        "normalized": " "
+    },
+    {
+        "char": "\ufff9",
+        "normalized": " "
+    },
+    {
+        "char": "\ufffa",
+        "normalized": " "
+    },
+    {
+        "char": "\ufffb",
+        "normalized": " "
+    }
+]
